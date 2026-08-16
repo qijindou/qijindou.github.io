@@ -17,6 +17,10 @@ Yuanyuan Qi is a PhD student in Data Science and AI (DSAI), supervised by <a hre
 
 <table style="border: none; border-collapse: collapse; width: 100%; font-size: 1em;">
   <tr style="border: none;">
+    <td style="border: none; padding: 2px 16px 2px 0; white-space: nowrap; vertical-align: top;">2026.3</td>
+    <td style="border: none; padding: 2px 16px;">Our paper "DPL: Decoupled Prototype Learning for Enhancing Robustness of Vision-Language Transformers to Missing Modalities" got accepted by CVPR'26</td>
+  </tr>
+  <tr style="border: none;">
     <td style="border: none; padding: 2px 16px 2px 0; white-space: nowrap; vertical-align: top;">2025.12</td>
     <td style="border: none; padding: 2px 16px;">Our paper "A Spectrum-to-Structure Diffusion Model for De Novo Small Molecule Generation" is published in Analytical Chemistry (IF: 7.4)</td>
   </tr>
@@ -48,8 +52,16 @@ Yuanyuan Qi is a PhD student in Data Science and AI (DSAI), supervised by <a hre
 <strong>Next Generation Active Learning: Mixture of LLMs in the Loop</strong><br>
 <u>Qi, Y.</u>, Yang, X., Lu, J., Guo, G., Enticott, J., Liu, G., & Du, L.<br>
 <em>Proceedings of the 40th Annual AAAI Conference on Artificial Intelligence (AAAI)</em>, 2026.
-<a href="https://arxiv.org/pdf/2601.15773" title="Paper"><i class="fas fa-file-pdf" style="margin-left: 8px;"></i></a>
+<a href="https://ojs.aaai.org/index.php/AAAI/article/view/39678" title="Paper"><i class="fas fa-file-pdf" style="margin-left: 8px;"></i></a>
 <a href="https://github.com/qijindou/MoLLIA" title="Code"><i class="fab fa-github" style="margin-left: 5px;"></i></a>
+</p>
+
+<p style="margin: 8px 0;">
+<strong>DPL: Decoupled Prototype Learning for Enhancing Robustness of Vision-Language Transformers to Missing Modalities</strong><br>
+Lu, J., <u>Qi, Y.</u>, Yang, X., Niu, S., Ke, F., Zhou, S., ... \& Du, L.<br>
+<em>Proceedings of the Computer Vision and Pattern Recognition Conference (CVPR)</em>, 2026.
+<a href="https://openaccess.thecvf.com/content/CVPR2026/papers/Lu_DPL_Decoupled_Prototype_Learning_for_Enhancing_Robustness_of_Vision-Language_Transformers_CVPR_2026_paper.pdf" title="Paper"><i class="fas fa-file-pdf" style="margin-left: 8px;"></i></a>
+<a href="https://github.com/OverfitFlow/DPL" title="Code"><i class="fab fa-github" style="margin-left: 5px;"></i></a>
 </p>
 
 <p style="margin: 8px 0;">
@@ -92,6 +104,13 @@ Guo, G., <u>Qi, Y.</u>, Zhu, M., Wang, Y., & Yen, J.<br>
 </p>
 
 <p style="margin: 8px 0;">
+<strong>Market Sentiment Analysis Based on Image Processing with Put-Call Volatility Gap Surface</strong><br>
+<u>Qi, Y.</u>, Guo, G., Wang, Y., & Yen, J.<br>
+<em>IEEE Transactions on Computational Social Systems</em>, 11(1), 267-281, 2022.
+<a href="https://ieeexplore.ieee.org/document/9968135" title="Paper"><i class="fas fa-file-pdf" style="margin-left: 8px;"></i></a>
+</p>
+
+<p style="margin: 8px 0;">
 <strong>The Latency Accuracy Trade-off and Optimization in Implied Volatility-Based Trading Systems</strong><br>
 Guo, G., <u>Qi, Y.</u>, Lai, S., Liu, Z., & Yen, J.<br>
 <em>Expert Systems with Applications</em>, 221, 119714, 2023.
@@ -99,10 +118,10 @@ Guo, G., <u>Qi, Y.</u>, Lai, S., Liu, Z., & Yen, J.<br>
 </p>
 
 <p style="margin: 8px 0;">
-<strong>Market Sentiment Analysis Based on Image Processing with Put-Call Volatility Gap Surface</strong><br>
+<strong>Image Processing Based Implied Volatility Surface Analysis for Asset Movement Forecasting</strong><br>
 <u>Qi, Y.</u>, Guo, G., Wang, Y., & Yen, J.<br>
-<em>IEEE Transactions on Computational Social Systems</em>, 11(1), 267-281, 2022.
-<a href="https://ieeexplore.ieee.org/document/9968135" title="Paper"><i class="fas fa-file-pdf" style="margin-left: 8px;"></i></a>
+<em>IEEE 20th International Conference on Industrial Informatics</em>, 2022.
+<a href="https://ieeexplore.ieee.org/abstract/document/9976175" title="Paper"><i class="fas fa-file-pdf" style="margin-left: 8px;"></i></a>
 </p>
 
 </div>
@@ -162,8 +181,18 @@ Guo, G., <u>Qi, Y.</u>, Lai, S., Liu, Z., & Yen, J.<br>
 
 <table style="border: none; border-collapse: collapse; width: 100%; font-size: 1em;">
   <tr style="border: none;">
-    <td style="border: none; padding: 2px 8px 2px 0; white-space: nowrap; vertical-align: top;">2024-2025</td>
+    <td style="border: none; padding: 2px 8px 2px 0; white-space: nowrap; vertical-align: top;">2024-Now</td>
     <td style="border: none; padding: 2px 8px;">Teaching Assistant of Algorithms and Programming Foundations in Python (FIT9136)</td>
+    <td style="border: none; padding: 2px 0 2px 8px; white-space: nowrap;">Monash University</td>
+  </tr>
+  <tr style="border: none;">
+    <td style="border: none; padding: 2px 8px 2px 0; white-space: nowrap; vertical-align: top;">2026</td>
+    <td style="border: none; padding: 2px 8px;">Teaching Assistant of Natural Language Processing (FIT5217)</td>
+    <td style="border: none; padding: 2px 0 2px 8px; white-space: nowrap;">Monash University</td>
+  </tr>
+  <tr style="border: none;">
+    <td style="border: none; padding: 2px 8px 2px 0; white-space: nowrap; vertical-align: top;">2026</td>
+    <td style="border: none; padding: 2px 8px;">Teaching Assistant of Teaching Assistant, Natural Language Processing (FIT5212)</td>
     <td style="border: none; padding: 2px 0 2px 8px; white-space: nowrap;">Monash University</td>
   </tr>
   <tr style="border: none;">
@@ -187,6 +216,7 @@ AAAI Conference on Artificial Intelligence (AAAI)<br>
 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)<br>
 Conference on Uncertainty in Artificial Intelligence (UAI)<br>
 International Conference on Machine Learning (ICML)<br>
+Annual Conference on Neural Information Processing Systems (NeurIPS)<br>
 European Conference on Computer Vision (ECCV)
 </div>
 
